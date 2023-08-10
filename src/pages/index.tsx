@@ -1,6 +1,9 @@
+import Pagina from "@/components/template/pagina";
 
 export default function Home() {
   return (
-    <div>Controle Financeiro</div>
+    <Pagina>
+      Controle Financeiro
+    </Pagina>
   )
 }
