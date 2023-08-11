@@ -1,9 +1,5 @@
-import Pagina from "@/components/template/pagina";
+import Landing from "@/components/landing";
 
 export default function Home() {
-  return (
-    <Pagina>
-      Controle Financeiro
-    </Pagina>
-  )
+  return <Landing />
 }
