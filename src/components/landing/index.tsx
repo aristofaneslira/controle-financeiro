@@ -1,4 +1,4 @@
-import Pagina from "../template/pagina";
+import Pagina from "../template/Pagina";
 import Cabecalho from "./cabecalho";
 import Depoimentos from "./depoimentos";
 import Destaque from "./destaque";
